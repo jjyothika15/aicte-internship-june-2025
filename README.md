@@ -6,6 +6,6 @@
 ```bash
 git clone https://github.com/jjyothika15/aicte-internship-june-2025.git
 
-##python
+## python
 from tensorflow.keras.models import load_model
 model = load_model('garbage_model_mobilenetv2.h5')
