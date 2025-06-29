@@ -1,11 +1,4 @@
 # aicte-internship-june-2025
 
-## How to Use the Trained Model
-
-1. Clone the repo:
-```bash
-git clone https://github.com/jjyothika15/aicte-internship-june-2025.git
-
-## python
-from tensorflow.keras.models import load_model
-model = load_model('garbage_model_mobilenetv2.h5')
+## To view the data set please go through the link
+https://drive.google.com/drive/folders/1mGaCti1YI1HIbf44wuHF7UgikPL88z-Q?usp=sharing
